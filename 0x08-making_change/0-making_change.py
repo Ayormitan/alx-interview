@@ -5,7 +5,7 @@ needed to meet a given amount
 """
 
 
-def make Change(coins, total):
+def makeChange(coins, total):
     """
     Determine the fewest number of coins
 
